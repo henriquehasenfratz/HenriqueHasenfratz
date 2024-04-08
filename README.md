@@ -1,13 +1,9 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
 <h3 align="center">Apaixonado por TI, e Análise de Dados.</h3>
 
-- 🔭 Atualmente estou trabalhando com Finanças **CPFL Energia**
+- 🔭 Atualmente estou trabalhando no Agibank como Analista de Planejamento Comercial Financeiro.
 
 - 🌱 Estou aprendendo Python **Python**
-
-- 👯 Também faço freelance [Easy4dados](https://easy4dados.com.br/)
-
-- 👨‍💻 Meus projetos estão aqui >>>> [https://easy4dados.com.br/](https://easy4dados.com.br/)
 
 - 💬Me pergunte sobre **Finanças, Análise de Dados, Power Bi, Dax e Excel.**
 

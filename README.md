@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
-<h3 align="center">Apaixonado por TI, e Análise de Dados.</h3>
+<h3 align="center">Apaixonado por Tecnologia, e Análise de Dados.</h3>
 
 - 🔭 Atualmente estou trabalhando no Agibank como Analista de Planejamento Comercial Financeiro.
 
-- 🌱 Estou aprendendo Python **Python**
+- 🌱 Estou focado em SQL **SQL ** e Python **Python**
 
 - 💬Me pergunte sobre **Finanças, Análise de Dados, Power Bi, Dax e Excel.**
 

@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente estou trabalhando no Agibank como Analista de Planejamento Comercial Financeiro.
 
-- 🌱 Estou focado em SQL **SQL ** e Python **Python**
+- 🌱 Estou focado em SQL **SQL** e Python **Python**
 
 - 💬Me pergunte sobre **Finanças, Análise de Dados, Power Bi, Dax e Excel.**
 

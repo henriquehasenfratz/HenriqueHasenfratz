@@ -1,15 +1,15 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
-<h3 align="center">Apaixonado por Tecnologia, e Análise de Dados.</h3>
+<h3 align="center">Love the tech.</h3>
 
-- 🔭 Atualmente estou trabalhando no Agibank como Analista de Planejamento Comercial Financeiro.
+- 🔭 I am currently not working 
 
-- 🌱 Estou focado em SQL **SQL** e Python **Python**
+- 🌱 I am focused on FinOps
 
-- 💬Me pergunte sobre **Finanças, Análise de Dados, Power Bi, Dax e Excel.**
+- 💬Ask me about **Finance, Data Analysis, Power Bi, Dax and Excel.**
 
-- 📫Você me encontra **brandaojoseh@gmail.com**
+- 📫You can find me at **brandaojoseh@gmail.com**
 
-- 📄 Acesse meu Linkedin para ver minhas experiências [https://www.linkedin.com/in/josehenriquehbrandao/](https://www.linkedin.com/in/josehenriquehbrandao/)
+- 📄 My Linkedin [https://www.linkedin.com/in/josehenriquehbrandao/](https://www.linkedin.com/in/josehenriquehbrandao/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

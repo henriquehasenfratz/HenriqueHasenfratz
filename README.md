@@ -1,9 +1,9 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
-<h3 align="center">Love the tech.</h3>
+<h3 align="center">Love the finance and tech.</h3>
 
 - 🔭 I am currently not working 
 
-- 🌱 I am focused on FinOps
+- 🌱 I am focused on Finance and Data.
 
 - 💬Ask me about **Finance, Data Analysis, Power Bi, Dax and Excel.**
 

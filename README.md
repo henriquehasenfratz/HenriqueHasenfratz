@@ -1,11 +1,11 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
 <h3 align="center">Love the finance and tech.</h3>
 
-- 🔭 I am currently not working 
+- 🔭 I am currently working AEGEA Saneamento 
 
 - 🌱 I am focused on Finance and Data.
 
-- 💬Ask me about **Finance, Data Analysis, Power Bi, Dax and Excel.**
+- 💬Ask me about **Finance, Data Analysis, Power Bi, SQL, Dax and Excel.**
 
 - 📫You can find me at **brandaojoseh@gmail.com**
 

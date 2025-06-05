@@ -1,5 +1,5 @@
 <h1 align="center">Olá, Sou José Henrique Hasenfratz Brandão</h1>
-<h3 align="center">Love the finance and tech.</h3>
+<h3 align="center">Love the finance Planning and tech.</h3>
 
 - 🔭 I am currently working AEGEA Saneamento 
 
